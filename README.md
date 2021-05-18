@@ -15,6 +15,8 @@
 
 #### Combined amenity in Metro Manila
 ![combined amenity in Metro Manila](https://github.com/Tenshin17/DATASCI/blob/Geospatial/images/MM/Comb_MM_Maps.png)
+![combined amenity in Metro Manila](/images/MM/Comb_MM_Maps.png)
+
 
 #### Clinic in Metro Manila
 ![Clinic in Metro Manila](https://github.com/Tenshin17/DATASCI/blob/Geospatial/images/MM/Clinic_MM.png)
